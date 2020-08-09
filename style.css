@@ -1,0 +1,42 @@
+.main{
+    justify-content: center !important;
+
+    
+    
+}
+.btn{
+    width: 300px;
+    height: 25px;
+    background-color: royalblue;
+    color: white;
+    margin-left: 20px;
+    
+}
+#next{
+    background-color: green;
+    color: white;
+    margin-left: 1150px;
+    
+    width: auto;
+    height: 40px;
+    
+}
+.color:active{
+background-color:white;
+color: black;
+}
+
+#validate{
+    display: none;
+    background-color: green;
+    color:white;
+    height: 40px;
+   
+}
+#score{
+    text-align: center;
+    color: blue;
+    font-size: 16px;
+    border: 1px solid red;
+    
+}
